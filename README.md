@@ -11,3 +11,5 @@ More to come...
 # Printing
 
   The .STL files [will be] on Printables and Thingiverse
+  Printables: https://www.printables.com/model/499046-parametric-compound-cycloid-reducer
+  Thingiverse: 
