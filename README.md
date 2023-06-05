@@ -10,6 +10,6 @@ More to come...
 
 # Printing
 
-  The .STL files [will be] on Printables and Thingiverse
+  The .STL files are on Printables and Thingiverse
   Printables: https://www.printables.com/model/499046-parametric-compound-cycloid-reducer
-  Thingiverse: 
+  Thingiverse: https://www.thingiverse.com/thing:6063196
