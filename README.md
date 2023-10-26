@@ -1,6 +1,9 @@
 # Parametric-compound-cycloid-reducer
 An easily editable reducer designed in Onshape.
 
+![image](https://github.com/OrnithopterX/Parametric-compound-cycloid-reducer/assets/109166435/2b450d9b-061f-4ed6-8846-5b364425f419)
+
+
 # Printing
   If you just want to print the default reducer, the .STL files can be found on Printables and Thingiverse.
   
